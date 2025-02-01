@@ -1,0 +1,92 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Монитор игровой ARG M245S1F2795",
+            "description": "Ноутбук, предназначенный для игр и продакшена, представляет собой идеальное сочетание мощности",
+            "price": 1000,
+            "rating": 1, 
+            "image": "https://object.pscloud.io/cms/cms/Photo/img_0_65_925_0_6_AKjhUd.webp" 
+        },
+        {
+            "id": 2,
+            "name": "Смартфон Apple iPhone 13 4/128GB Midnight",
+            "description": "iPhone 16 Pro. Великолепный корпус из титана. Контроллер камеры. Видео Dolby Vision в 4K 120 кадр/с.И чип A18 Pro",
+            "price": 1000,
+            "rating": 4.5, 
+            "image": "https://object.pscloud.io/cms/cms/Photo/img_0_77_3123_9_1_320.webp" 
+        },
+        {
+            "id": 3,
+            "name": "Ноутбук ASUS TUF Gaming F17 FX707ZC4-HX076 Intel Core i5 12500H 16 GB / SSD 512 GB / RTX 3050 4GB / NO OS / 90NR0GX1-M00610",
+            "description": "Ноутбук, предназначенный для игр и продакшена, представляет собой идеальное сочетание мощности и стиля.",
+            "price": 1500,
+            "rating": 4.2, 
+            "image": "https://object.pscloud.io/cms/cms/Photo/img_0_62_3032_0_1_Bv2yF4_320.webp" 
+        },
+        {
+            "id": 4,
+            "name": "Ноутбук Acer Nitro V ANV14-61 Ryzen 7-8845HS 32GB / SSD 1TB / RTX 4050 6GB / NO OS / NH.QTYER.001",
+            "description": "Ноутбук, предназначенный для игр и продакшена, представляет собой идеальное сочетание мощности и стиля.",
+            "price": 2000,
+            "rating": 5, 
+            "image": "https://object.pscloud.io/cms/cms/Photo/img_0_62_3174_0_1_aMFj7J_320.webp" 
+        },
+        {
+            "id": 5,
+            "name": "Ноутбук Acer Nitro V ANV14-61 Ryzen 7-8845HS 32GB / SSD 1TB / RTX 4050 6GB / NO OS / NH.QTYER.001",
+            "description": "Ноутбук, предназначенный для игр и продакшена, представляет собой идеальное сочетание мощности и стиля.",
+            "price": 2000,
+            "rating": 5, 
+            "image": "https://object.pscloud.io/cms/cms/Photo/img_0_62_2609_0_1_320.webp" 
+        },
+        {
+            "id": 6,
+            "name": "Смартфон Samsung Galaxy S24 Ultra 12/512GB Titanium Black",
+            "description": "iPhone 16 Pro. Великолепный корпус из титана. Контроллер камеры. Видео Dolby Vision в 4K 120 кадр/с. И чип A18 Pro",
+            "price": 2000,
+            "rating": 2, 
+            "image": "https://object.pscloud.io/cms/cms/Photo/img_0_77_5801_0_1_PsA9N6_320.webp" 
+        },
+        {
+            "id": 7,
+            "name": "Смартфон Xiaomi Redmi 13 8/256 GB NFC Midnight Black",
+            "description": "iPhone 16 Pro. Великолепный корпус из титана. Контроллер камеры. Видео Dolby Vision в 4K 120 кадр/с. И чип A18 Pro",
+            "price": 2000,
+            "rating": 2.5, 
+            "image": "https://object.pscloud.io/cms/cms/Photo/img_0_77_6011_0_1_6PuZRl_320.webp" 
+        },
+        {
+            "id": 8,
+            "name": "Смартфон Samsung Galaxy S24 8/128GB Marble Gray",
+            "description": "iPhone 16 Pro. Великолепный корпус из титана. Контроллер камеры. Видео Dolby Vision в 4K 120 кадр/с. И чип A18 Pro",
+            "price": 2000,
+            "rating": 3, 
+            "image": "https://object.pscloud.io/cms/cms/Photo/img_0_77_5780_0_1_5E9cnf_320.webp" 
+        },
+        {
+            "id": 9,
+            "name": "Смартфон VIVO V40 Lite 8/128GB Titanium Silver",
+            "description": "iPhone 16 Pro. Великолепный корпус из титана. Контроллер камеры. Видео Dolby Vision в 4K 120 кадр/с. И чип A18 Pro",
+            "price": 2000,
+            "rating": 3, 
+            "image": "https://object.pscloud.io/cms/cms/Photo/img_0_77_6223_0_1_CGcZm1_320.webp" 
+        },
+        {
+            "id": 10,
+            "name": "Ноутбук Machcreator One i3 Core i3 1005G1 8GB / SSD 256GB / UHD 32 / Win 11 Pro / JB0C1B001RU",
+            "description": "Ноутбук, предназначенный для игр и продакшена, представляет собой идеальное сочетание мощности и стиля.",
+            "price": 2000,
+            "rating": 5, 
+            "image": "https://c.dns-shop.kz/thumb/st4/fit/320/250/1b19191862ecf2a963ce3160bdb10f0f/00531b8fd5741f428c0666e46e44347488eed017c0dc5aae2aeae5809796e3fc.jpg" 
+        },
+        {
+            "id": 11,
+            "name": "Наушники Apple Airpods MV7N2RU/A White",
+            "description": "iPhone 16 Pro. Великолепный корпус из титана. Контроллер камеры. Видео Dolby Vision в 4K 120 кадр/с. И чип A18 Pro",
+            "price": 2000,
+            "rating": 1.5, 
+            "image": "https://object.pscloud.io/cms/cms/Photo/img_0_83_1081_0.webp" 
+        }
+    ]
+}
